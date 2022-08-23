@@ -1,4 +1,4 @@
-# Librería Espavcios Vectoriales
+# Librería Espacios Vectoriales
 
 ## Instalación
 
